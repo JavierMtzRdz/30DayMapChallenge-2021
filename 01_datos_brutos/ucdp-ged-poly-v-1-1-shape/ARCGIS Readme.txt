@@ -1,0 +1,2 @@
+The aggregated polygons, with each polygon covering one dyad (and containing data between 1989-2010) are stored in the UCDPGEDpoly shapefile.
+The per-year polygons, with each polygon covering one dyad-year are stored in the UCDPGEDpolyyear shapefile.

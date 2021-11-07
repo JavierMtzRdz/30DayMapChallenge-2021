@@ -7,7 +7,7 @@
 ##
 ## Autor:          Javier Mtz.  
 ##
-## Fecha creac.:   2021-11-01
+## Fecha creac.:   2021-11-03
 ##
 ## Email:          javier.mtz.rd@gmail.com
 ##
